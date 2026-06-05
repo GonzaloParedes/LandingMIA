@@ -1,4 +1,4 @@
-# Music Agent for DAWs
+# Korda Agent for DAWs
 
 Landing page estatica para presentar un posible proyecto de tesis/trabajo final: un asistente creativo basado en IA para flujos de produccion musical en DAWs.
 
